@@ -11,12 +11,16 @@ function App() {
         </p>
         <h1>first react app</h1>
        <img src="https://jayswines.com/wp-content/uploads/2017/01/Buy-Hennessy-XO-700ml-online-in-Nairobi.png"alt="" srcset=""></img>
-       <div>
-        <button type='button'>order drinks</button>
-       </div>
+       
+        <button type='button'onClick={buttonClicked}>order drinks</button>
+       
       </header>
     </div>
   );
+}
+
+function buttonClicked(){
+  alert("you clicked me");
 }
 
 export default App;
