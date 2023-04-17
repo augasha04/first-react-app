@@ -9,14 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
+       <img src="https://jayswines.com/wp-content/uploads/2017/01/Buy-Hennessy-XO-700ml-online-in-Nairobi.png"alt="" srcset=""></img>
       </header>
     </div>
   );
